@@ -1,13 +1,12 @@
 CACHE MANIFEST
-# Revision 1406175948622
+# Revision 1406182433888
 
 CACHE:
 index.html
-chapter_2/article.html
-chapter_2/open_source_software_vs_comercial_software.html
 chapter_2/README.html
 final_toughts/README.html
 get_involved/README.html
+chapter_2/article.html
 licensing/README.html
 success_stories/README.html
 gitbook\app.js
