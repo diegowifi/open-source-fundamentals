@@ -11,6 +11,12 @@ There are millions of open source projects available. Below is a list of some ve
 * [jQuery](https://github.com/jquery/jquery) a fast, small, and feature-rich JavaScript library.
 
 
+* [Linux](https://github.com/torvalds/linux) a famous computer operating system assembled under the model of free and open source software development and distribution.
+
+
+* [OwnCloud](https://github.com/owncloud/core) gives you freedom and control over your own data. A personal cloud which runs on your own server.
+
+
 * [PHP](https://github.com/php/php-src) is the most popular web programming language on the web, powering Facebook and more than 80% of the web.
 
 
