@@ -5,6 +5,8 @@
 <br/>
 There are millions of open source projects available. Below is a list of some very popular and notable examples.
 
+* [Django](https://github.com/django/django) a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
 
 * [Firefox OS]() is the mobile operating system developed and maintained by Mozilla.
 
