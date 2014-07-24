@@ -1,12 +1,12 @@
 CACHE MANIFEST
-# Revision 1406182433888
+# Revision 1406185217573
 
 CACHE:
-index.html
 chapter_2/README.html
+chapter_2/article.html
 final_toughts/README.html
 get_involved/README.html
-chapter_2/article.html
+index.html
 licensing/README.html
 success_stories/README.html
 gitbook\app.js

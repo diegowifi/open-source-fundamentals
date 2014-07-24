@@ -3,7 +3,7 @@
 ![I made it](http://i.imgur.com/obYNG8C.gif "I made it")
 
 <br/>
-There are millions of open source projects available. Below is a list of some very popular and notable examples.
+There are millions of open source projects available. Below is a list of some very popular and notable examples. Most of this examples are hosted on GitHub, that´s because it´s a great platform for contribution, but I´ll talk about that later in the "*Get involved*" chapter.
 
 * [Django](https://github.com/django/django) a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -23,8 +23,8 @@ There are millions of open source projects available. Below is a list of some ve
 * [Ruby on Rails](https://github.com/rails/rails) a web-application framework that includes everything needed to create database-backed web applications.
 
 
-* [The Android Open Source Project]() is the official mobile operating system as an open source project.
+* [The Android Open Source Project](https://source.android.com/) is the official mobile operating system as an open source project.
 
 
-* [WordPress](), one of the most popular content management system on the web, is used by millions of people.
+* [WordPress](https://github.com/WordPress/WordPress), one of the most popular content management system on the web, is used by millions of people.
 
