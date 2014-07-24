@@ -5,8 +5,6 @@
 <br/>
 There are millions of open source projects available. Below is a list of some very popular and notable examples.
 
-* [Audacity]() is a free, easy to use, multi-track audio editor and recorder.
-
 
 * [Firefox OS]() is the mobile operating system developed and maintained by Mozilla.
 
