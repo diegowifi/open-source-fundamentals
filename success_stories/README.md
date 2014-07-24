@@ -8,10 +8,16 @@ There are millions of open source projects available. Below is a list of some ve
 * [Django](https://github.com/django/django) a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
 
+* [Filezilla](https://github.com/basvodde/filezilla) a free, open source FTP, FTPS and SFTP client.
+
+
 * [jQuery](https://github.com/jquery/jquery) a fast, small, and feature-rich JavaScript library.
 
 
 * [Linux](https://github.com/torvalds/linux) a famous computer operating system assembled under the model of free and open source software development and distribution.
+
+
+* [Less](https://github.com/less/less.js) is the dynamic stylesheet language.
 
 
 * [OwnCloud](https://github.com/owncloud/core) gives you freedom and control over your own data. A personal cloud which runs on your own server.
