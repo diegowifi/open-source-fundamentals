@@ -3,7 +3,7 @@
 ![I made it](http://i.imgur.com/obYNG8C.gif "I made it")
 
 <br/>
-There are millions of open source projects available. Below is a list of some very popular and notable examples. Most of this examples are hosted on GitHub, that´s because it´s a great platform for contribution, but I´ll talk about that later in the "*Get involved*" chapter.
+There are millions of open source projects available. Below is a list of some very popular examples, most of them are hosted on GitHub, that´s because it´s a great platform for collaboration, but I´ll talk about that later in the "*Get involved*" chapter.
 
 * [Django](https://github.com/django/django) a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 

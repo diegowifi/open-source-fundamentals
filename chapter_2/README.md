@@ -8,7 +8,7 @@ Yeah, when we hear "open source" we think about computer software development ri
 
 ### ¿What is open source software?
 
-Open source software is software whose source code is available for modification or enhancement by **anyone**.
+Simple, open source software is software whose source code is available for modification or enhancement by **anyone**.
 
 "*Source code*" is the beautiful code we write that most computer users don't ever see, I know, it´s sad but it´s true. This code is also what programmers can manipulate to change how a piece of software or application works. Programmers who have access to a computer program's source code can improve that program by adding features or fixing parts that don't always work correctly.
 
