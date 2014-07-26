@@ -14,7 +14,7 @@ Making your code available as open source involves much more than just indicatin
 
 The license defines the responsibilities placed on third parties wishing to modify and/or reuse open source software within their own products, so choosing the right licence is key to ensuring that the project owner is able to sustain the project in whichever way they choose. The first thing we recommend is to use only licences that have been approved by the Open Source Initiative (OSI). There are many good reasons for this, but perhaps the most convincing is that sticking with an OSI licence makes it much more likely that potential users and contributors will understand your licence terms already. Using an obscure licence or writing your own will negate this advantage.
 
-There are a lot of licenses available out there, to see which is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
+There are a lot of licenses available out there, here is a [list](http://opensource.org/licenses/alphabetical) so you can check them out, to see which one is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
 
 ![Reading](http://i.imgur.com/RKR92jv.jpg "WTF")
 
