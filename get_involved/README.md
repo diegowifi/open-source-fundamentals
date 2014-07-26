@@ -1,5 +1,7 @@
 # Get involved
 
+![Imgur](http://i.imgur.com/KLnANGW.jpg)
+
 An open source project typically involves three stages. Let's take a quick look at each stage.
 
 ### **1- Contributing**
