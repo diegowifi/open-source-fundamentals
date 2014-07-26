@@ -2,11 +2,13 @@
 
 ![Ideas](http://i.imgur.com/KLnANGW.jpg "Ideas matter")
 
+You need to know how [Git](http://git-scm.com/) (a “version control system) works in order to contribute with people (in most cases). ¿Why GitHub?, well, GitHub has become a staple amongst the open-source development community, it´s simple, with a great user interface and it´s where most open-source projects are.
+
 ¿So you found that cool project you want to work on?, great, an open source project typically involves three stages. Let's take a quick look at each stage.
 
 ### **1- Contributing**
 
-If you want to get involved with an open source project, you could begin by contacting the organization behind the software itself and asking what opportunities they have going. This method will work well for smaller-scale projects, or startups, however, you should be aware that the majority of open source projects will not pay for your work and that it's done on a voluntary basis.
+You could begin by contacting the organization behind the software itself and asking what opportunities they have going. This method will work well for smaller-scale projects, or startups, however, you should be aware that the majority of open source projects will not pay for your work and that it's done on a voluntary basis.
 
 Alternatively, for larger-scale projects, you can simply start coding and forking your own version of the software. You should be wary though that if lots of people are working on the same project as you, that your hard work may not be included in the final release of the product, so brace yourself for rejection.
 
