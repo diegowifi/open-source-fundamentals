@@ -16,7 +16,7 @@ The license defines the responsibilities placed on third parties wishing to modi
 
 There are a lot of licenses available out there, here is a [list](http://opensource.org/licenses/alphabetical) so you can check them out, to see which one is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
 
-![Reading](http://i.imgur.com/RKR92jv.jpg "WTF")
+![Reading](http://i.imgur.com/mNZzURP.jpg?1 "WTF")
 
 ### Applying the license
 
