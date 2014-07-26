@@ -16,6 +16,8 @@ The license defines the responsibilities placed on third parties wishing to modi
 
 There are a lot of licenses available out there, to see which is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
 
+![Reading](http://i.imgur.com/RKR92jv.jpg "WTF")
+
 ### Applying the license
 
 Once you have chosen the licence you wish to use and confirmed that you are legally entitled to license all the code in your project, you must apply the licence so that people can see it. It is not sufficient to simply state that your code is available under a specified licence; you also need to ensure that it is prominently displayed in all appropriate locations. At a minimum you must:
