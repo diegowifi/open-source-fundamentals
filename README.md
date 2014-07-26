@@ -10,7 +10,7 @@ I strongly recommend you to read this Gitbook online, it´s the best option that
 
 Because it´s important. I want to encourage you to collaborate with other developers the right way, I also want to share my personal experience, I´ve been collaborating writing code since 2011 and met awesome people from all places around the world in the process, think about it, that´s something great that wasn´t possible to do years ago.
 
-I´m about to give you and introduction to the very fundamentals of what open source is and what is not, so find a nice place to read, ¡let´s get started! :)
+I´m about to give you and introduction to the very fundamentals of what open source is and what is not, everything you are about to read is my personal opinion, so if you disagree with what I´m saying at some point it´s a valid thing to happen, but keep in mind that what I wrote is based on my experience with the open source world.
 
 ###The benefits of writing code "for free"
 
