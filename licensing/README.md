@@ -14,21 +14,23 @@ Making your code available as open source involves much more than just indicatin
 
 The license defines the responsibilities placed on third parties wishing to modify and/or reuse open source software within their own products, so choosing the right licence is key to ensuring that the project owner is able to sustain the project in whichever way they choose. The first thing we recommend is to use only licences that have been approved by the Open Source Initiative (OSI). There are many good reasons for this, but perhaps the most convincing is that sticking with an OSI licence makes it much more likely that potential users and contributors will understand your licence terms already. Using an obscure licence or writing your own will negate this advantage.
 
+There are a lot of licenses available out there, to see which is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
+
 ### Applying the license
 
 Once you have chosen the licence you wish to use and confirmed that you are legally entitled to license all the code in your project, you must apply the licence so that people can see it. It is not sufficient to simply state that your code is available under a specified licence; you also need to ensure that it is prominently displayed in all appropriate locations. At a minimum you must:
 
-* state on your website which licence is applied (preferably on your home page and your downloads page)
+* State on your website which licence is applied (preferably on your home page and your downloads page)
 
 
-* provide the full text of the licence on your website
+* Provide the full text of the licence on your website
 
 
-* provide the full text of the licence in the root directory of your source project (usually in a file called LICENSE.TXT)
+* Provide the full text of the licence in the root directory of your source project (usually in a file called LICENSE.TXT)
 
 
-* provide a boilerplate notice in the head of each file in the source distribution (The boilerplate text used varies from licence to licence. You will usually find further discussion on how to apply a licence documented alongside the licence in its original home.)
+* Provide a boilerplate notice in the head of each file in the source distribution (The boilerplate text used varies from licence to licence. You will usually find further discussion on how to apply a licence documented alongside the licence in its original home.)
 
 
-* provide the full text of the licence in the root directory of your non-source project distributions (usually in a file called LICENSE.TXT).
+* Provide the full text of the licence in the root directory of your non-source project distributions (usually in a file called LICENSE.TXT).
 
