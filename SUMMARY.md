@@ -5,5 +5,5 @@
 * [Success Stories](success_stories/README.md)
 * [Licensing](licensing/README.md)
 * [Get involved](get_involved/README.md)
-* [Final toughts](final_toughts/README.md)
+* [Final thoughts](final_toughts/README.md)
 
