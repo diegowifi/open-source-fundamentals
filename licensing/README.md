@@ -12,27 +12,27 @@ Making your code available as open source involves much more than just indicatin
 
 ### Choosing a License
 
-The license defines the responsibilities placed on third parties wishing to modify and/or reuse open source software within their own products, so choosing the right license is key to ensuring that the project owner is able to sustain the project in whichever way they choose. The first thing I recommend is to use only licences that have been approved by the [Open Source Initiative](http://opensource.org/) (OSI). There are many good reasons for this, but perhaps the most convincing is that sticking with an OSI licence makes it much more likely that potential users and contributors will understand your licence terms already. Using an obscure licence or writing your own will negate this advantage.
+The license defines the responsibilities placed on third parties wishing to modify and/or reuse open source software within their own products, so choosing the right license is key to ensuring that the project owner is able to sustain the project in whichever way they choose. The first thing I recommend is to use only licences that have been approved by the [Open Source Initiative](http://opensource.org/) (OSI). There are many good reasons for this, but perhaps the most convincing is that sticking with an OSI licence makes it much more likely that potential users and contributors will understand your license terms already.
 
-There are a lot of licenses available out there, here is a [list](http://opensource.org/licenses/alphabetical) so you can check them out, to see which one is the best for your project here is a really helpful tool, [choosealicense.com](choosealicense.com).
+There are a lot of [licenses available](http://opensource.org/licenses/alphabetical) out there, check them out to see which one is the best for your project, or you can use this really helpful tool to do it easily, [choosealicense.com](choosealicense.com).
 
 ![Reading](http://i.imgur.com/mNZzURP.jpg?1 "WTF")
 
 ### Applying the license
 
-Once you have chosen the licence you wish to use and confirmed that you are legally entitled to license all the code in your project, you must apply the licence so that people can see it. It is not sufficient to simply state that your code is available under a specified licence; you also need to ensure that it is prominently displayed in all appropriate locations. At a minimum you must:
+Once you have chosen the license you wish to use and confirmed that you are legally entitled to license all the code in your project, you must apply the license so that people can see it. It is not sufficient to simply state that your code is available under a specified license; you also need to ensure that it is prominently displayed in all appropriate locations. At a minimum you must:
 
 * State on your website which licence is applied (preferably on your home page and your downloads page)
 
 
-* Provide the full text of the licence on your website
+* Provide the full text of the license on your website
 
 
-* Provide the full text of the licence in the root directory of your source project (usually in a file called LICENSE.TXT)
+* Provide the full text of the license in the root directory of your source project (usually in a file called LICENSE.TXT)
 
 
-* Provide a boilerplate notice in the head of each file in the source distribution (The boilerplate text used varies from licence to licence. You will usually find further discussion on how to apply a licence documented alongside the licence in its original home.)
+* Provide a boilerplate notice in the head of each file in the source distribution (The boilerplate text used varies from license to license. You will usually find further discussion on how to apply a license documented alongside the licence in its original home.)
 
 
-* Provide the full text of the licence in the root directory of your non-source project distributions (usually in a file called LICENSE.TXT).
+* Provide the full text of the license in the root directory of your non-source project distributions (usually in a file called LICENSE.TXT).
 
