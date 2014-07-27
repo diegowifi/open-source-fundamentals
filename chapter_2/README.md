@@ -1,4 +1,4 @@
-# ¿What is Open Source?
+# ¿What is open source?
 
 ![People](http://i.imgur.com/nUBwIG3.png "People sharing")
 

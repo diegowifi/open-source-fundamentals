@@ -10,7 +10,7 @@ Open source licenses make it easy for others to contribute to a project without 
 
 Making your code available as open source involves much more than just indicating on the project web page that the code is licensed under a particular open source license. Not only do you need to provide a way for people to download and/or contribute to the project, but you also need to choose the most appropriate license and address other legal requirements.
 
-### Choosing a License
+### Choosing a license
 
 The license defines the responsibilities placed on third parties wishing to modify and/or reuse open source software within their own products, so choosing the right license is key to ensuring that the project owner is able to sustain the project in whichever way they choose. The first thing I recommend is to use only licences that have been approved by the [Open Source Initiative](http://opensource.org/) (OSI). There are many good reasons for this, but perhaps the most convincing is that sticking with an OSI licence makes it much more likely that potential users and contributors will understand your license terms already.
 

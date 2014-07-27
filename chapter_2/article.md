@@ -1,14 +1,14 @@
-# Open Source Software != Free Software
+# Open source software != Free software
 
 ![Open Source and Free Software](http://i.imgur.com/e8F8qAK.jpg "Tim Oreilly and Richard Stallman")
 
 It’s easy for people to make the mistake of calling products like Chrome and Android “free software”, because, well...they didn’t pay anything for them. There is a very important distinction between “open source” and “free software”. Both are very specific terms that can mean completely different things, and it’s important to understand this because sometimes we start using software that advertises itself as open rather than free.
 
-###Open Source
+###Open source
 
 Open source means that the source code for the program is open for anyone to see. It makes no promises that you can actually do anything with it, but it at least guarantees you can see it. This provides some of the same advantages of the free software model; namely the ability to learn from the code and being able to independently audit code for stability and security purposes.
 
-###Free Software
+###Free software
 
 The [**GPL**](http://www.gnu.org/copyleft/gpl.html) (*General Public License*) is the best example of a free software license, it’s the license **Linus Torvalds** used to release his operating system kernel, Linux, which was able to be easily combined with the GNU operating system components because they were both using the same license. This gave birth to what we now know as “Linux”, I know, though purists will be quick to mention the proper term is “**GNU/Linux**”.
 
