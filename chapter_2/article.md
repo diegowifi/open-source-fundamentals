@@ -10,7 +10,7 @@ Open source means that the source code for the program is open for anyone to see
 
 ###Free Software
 
-The [**GPL**](http://www.gnu.org/copyleft/gpl.html)(*General Public License*) is the best example of a free software license, it’s the license **Linus Torvalds** used to release his operating system kernel, Linux, which was able to be easily combined with the GNU operating system components because they were both using the same license. This gave birth to what we now know as “Linux”, but though purists will be quick to mention the proper term is “**GNU/Linux**”.
+The [**GPL**](http://www.gnu.org/copyleft/gpl.html) (*General Public License*) is the best example of a free software license, it’s the license **Linus Torvalds** used to release his operating system kernel, Linux, which was able to be easily combined with the GNU operating system components because they were both using the same license. This gave birth to what we now know as “Linux”, I know, though purists will be quick to mention the proper term is “**GNU/Linux**”.
 
 A big misconception about the GPL is that it’s an “open source” license. Yes, the source code for a program released under the GPL must be available to all, but that isn’t all GPL guarantees to the user. The GPL guarantees what the [**Free Software Foundation**](http://www.fsf.org/) likes to call the “Four Freedoms”:
 

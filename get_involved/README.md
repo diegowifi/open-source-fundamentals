@@ -2,7 +2,7 @@
 
 ![Ideas](http://i.imgur.com/KLnANGW.jpg "Ideas matter")
 
-You need to know how [Git](http://git-scm.com/) ,a “version control system, works in order to contribute with people (in most cases), and a GitHub account . And ¿why GitHub?, well, GitHub has become a staple amongst the open-source development community, it´s simple, with a great user interface and it´s where most open-source projects are.
+You need to know how [Git](http://git-scm.com/), a version control system, works in order to contribute with people (in most cases), and a GitHub account . Ok, but ¿why GitHub?, well, GitHub has become a staple amongst the open-source development community, it´s simple, with a great user interface and it´s where most open-source projects are...so yeah.
 
 ¿So you found that cool project you want to work on?, great, an open source project typically involves three stages. Let's take a quick look at each stage.
 
