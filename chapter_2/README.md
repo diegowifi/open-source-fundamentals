@@ -2,7 +2,7 @@
 
 ![People](http://i.imgur.com/nUBwIG3.png "People sharing")
 
-Well, "*open source*" means you can modify something because its design is publicly accessible.
+Well, it all started in the 90´s by software communities, "*open source*" means you can modify something because its design is publicly accessible.
 
 Yeah, when we hear "open source" we think about computer software development right away, today the term "open source" designates a set of values that we call [the open source way](https://opensource.com/open-source-way). Open source projects, products, or initiatives are those that embrace and celebrate open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community development.
 
