@@ -38,4 +38,4 @@ There are a lot of open source projects out there. Here is a list of some very p
 * [WordPress](https://github.com/WordPress/WordPress) is one of the most popular content management system on the web, is used by millions of people.
 
 
-And a lot more, this list is just to show you that all this great software we use today was possible because of people´s collaboration.
+And a lot more, this list is just to show you that all this great software we use today was possible because of people´s collaboration, so yeah, open source matter...a lot.
