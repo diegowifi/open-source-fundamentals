@@ -14,7 +14,7 @@ I´m about to give you and introduction to the very fundamentals of what open so
 
 ###The benefits of writing code "for free"
 
-You can learn from other people's code to write better code yourself. Seeing an open source project you've worked on with other developers come together is one of the most rewarding feelings I've experienced as a developer, especially if it´s a big one with a lot of stars and forks on GitHub.
+You can learn from other people's code to write better code yourself. Seeing an open source project you've worked on with other developers come together is one of the most rewarding feelings I've experienced as a developer, specially if it´s a big one with a lot of stars and forks on GitHub.
 
 **Show what you´ve built instead of talking about it**. Because *code wins arguments* ¿right?, your contributions to open source communities are amazingly attractive for employers, forget about writing a resume of how awesome you are and share links, repos, photos instead, to show the things you´ve worked on.
 
