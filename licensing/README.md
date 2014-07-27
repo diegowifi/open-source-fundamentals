@@ -1,6 +1,6 @@
 # Licensing
 
-![Imgur](http://i.imgur.com/OktOQ4I.jpg)
+![I agree](http://i.imgur.com/jf133hu.jpg "I agree")
 
 ### What is licensing?
 
