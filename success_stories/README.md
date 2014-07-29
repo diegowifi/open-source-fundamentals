@@ -14,7 +14,7 @@ There are a lot of open source projects out there. Here is a list of some very p
 * [Filezilla](https://github.com/basvodde/filezilla) is a free, open source FTP, FTPS and SFTP client.
 
 
-* [Gitbok](https://github.com/GitbookIO/gitbook) is a command line tool (and Node.js library) for building beautiful books and exercises using GitHub/Git and Markdown...and is the tool you and I are actually using.
+* [Gitbook](https://github.com/GitbookIO/gitbook) is a command line tool (and Node.js library) for building beautiful books and exercises using GitHub/Git and Markdown...and is the tool you and I are actually using.
 
 
 * [jQuery](https://github.com/jquery/jquery) is a fast, small, and feature-rich JavaScript library.
