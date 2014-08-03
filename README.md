@@ -4,7 +4,6 @@
 
 If you are involved in the tech industry (or just getting started) you may have heard the term "open source" at least once. Open source projects are everywhere, on the web, on your computer, on your phone, etc. **You use technology that is open source everyday**, pretty amazing ¿isn´t it?
 
-I strongly recommend you to read this Gitbook online, it´s the best option that actually keeps the design and fonts intact...just saying.
 
 ###Why I´m writing this
 
