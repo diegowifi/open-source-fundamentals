@@ -3,7 +3,7 @@
 ![I made it](http://i.imgur.com/obYNG8C.gif "I made it")
 
 <br/>
-There are a lot of open source projects out there. Here is a list of some very popular examples, most of them are hosted on GitHub, that´s because it´s a great platform for collaboration.
+There are a lot of open source projects out there. Here is a list of some very popular examples, most of them are hosted on GitHub, that’s because it’s a great platform for collaboration.
 
 * [Bootstrap](https://github.com/twbs/bootstrap) is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
@@ -14,7 +14,7 @@ There are a lot of open source projects out there. Here is a list of some very p
 * [Filezilla](https://github.com/basvodde/filezilla) is a free, open source FTP, FTPS and SFTP client.
 
 
-* [Gitbook](https://github.com/GitbookIO/gitbook) is a command line tool (and Node.js library) for building beautiful books and exercises using GitHub/Git and Markdown...and is the tool you and I are actually using.
+* [Gitbook](https://github.com/GitbookIO/gitbook) is a command line tool (and Node.js library) for building beautiful books and exercises using GitHub/Git and Markdown... and is the tool you and I are actually using.
 
 
 * [jQuery](https://github.com/jquery/jquery) is a fast, small, and feature-rich JavaScript library.
@@ -41,4 +41,4 @@ There are a lot of open source projects out there. Here is a list of some very p
 * [WordPress](https://github.com/WordPress/WordPress) is one of the most popular content management system on the web, is used by millions of people.
 
 
-And a lot more, this list is just to show you that all this great software we use today was possible because of people´s collaboration, so yeah, open source matter...a lot.
+And a lot more, this list is just to show you that all this great software we use today was possible because of people’s collaboration, so yeah, open source matter... a lot.

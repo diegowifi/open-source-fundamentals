@@ -2,7 +2,7 @@
 
 ![Open Source and Free Software](http://i.imgur.com/e8F8qAK.jpg "Tim Oreilly and Richard Stallman")
 
-It’s easy for people to make the mistake of calling products like Chrome and Android “free software”, because, well...they didn’t pay anything for them. There is a very important distinction between “open source” and “free software”. Both are very specific terms that can mean completely different things, and it’s important to understand this because sometimes we start using software that advertises itself as open rather than free.
+It’s easy for people to make the mistake of calling products like Chrome and Android “free software”, because, well... they didn’t pay anything for them. There is a very important distinction between “open source” and “free software”. Both are very specific terms that can mean completely different things, and it’s important to understand this because sometimes we start using software that advertises itself as open rather than free.
 
 ###Open source
 
