@@ -6,6 +6,6 @@
 * [Success stories](success_stories/README.md)
 * [Licensing](licensing/README.md)
 * [Get involved](get_involved/README.md)
-* [Final thoughts](final_toughts/README.md)
 * [Resources](6_resources/README.md)
+* [Final thoughts](final_toughts/README.md)
 
