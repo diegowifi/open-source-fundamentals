@@ -14,7 +14,7 @@ But, for larger-scale projects, you can simply start coding and forking your own
 
 If you’re looking for inspiration on a project to start working on, there’s always lots of interesting projects to work on, especially if you look on sites like GitHub, SourceForge, and Google Code, stay curious.
 
-Before you begin actually working on the project, you should familiarize yourself with how the project is being run and and how its management is structured so you know who to go to if you require assistance with something. Also, it’s a good idea to check you know exactly what you’re doing before you begin, as you either don’t want to mess things up, or waste your time working on a feature that someone else is already working on, for example.
+Before you begin actually working on the project, you should familiarize yourself with how the project is being run and how its management is structured so you know who to go to if you require assistance with something. Also, it’s a good idea to check you know exactly what you’re doing before you begin, as you either don’t want to mess things up, or waste your time working on a feature that someone else is already working on, for example.
 
 ![Batman](http://i.imgur.com/55qobWz.jpg "Batman knows best")
 
